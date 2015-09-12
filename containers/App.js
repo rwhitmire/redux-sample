@@ -15,6 +15,7 @@ class App extends Component {
         <nav>
           <Link to="/">home</Link>
           <Link to="/about">about</Link>
+          <Link to="/counter">counter</Link>
         </nav>
         {children}
       </div>
